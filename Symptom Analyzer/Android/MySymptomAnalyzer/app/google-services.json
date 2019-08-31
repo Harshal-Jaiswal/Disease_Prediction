@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60578944132",
+    "firebase_url": "https://my-symptom-analyzer-c0179.firebaseio.com",
+    "project_id": "my-symptom-analyzer-c0179",
+    "storage_bucket": "my-symptom-analyzer-c0179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60578944132:android:edec86956701674c",
+        "android_client_info": {
+          "package_name": "com.example.mysymptomanalyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60578944132-ebove6a6n1gc6mnhk3t8g0kadd0g2tal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysymptomanalyzer",
+            "certificate_hash": "f8060496d422113b3b1ce099c77fa54370dbf058"
+          }
+        },
+        {
+          "client_id": "60578944132-u3d3u753judgqq78nf8hrh1oidfff1fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7IxPqXvXRz9je_eq4it-_8yhRZXl1VEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60578944132-u3d3u753judgqq78nf8hrh1oidfff1fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
